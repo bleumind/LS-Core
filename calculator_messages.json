@@ -1,0 +1,16 @@
+{
+  "en": {
+    "intro": "Welcome to the Calculator!",
+    "num1": "What is the first number?",
+    "num2": "What is the second number?",
+    "operation": "What operation would you like the perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+    "error": "Hmm.. that doesn't look like a valid number."
+  },
+  "es": {
+    "intro": "Bienvenido a la calculadora!",
+    "num1": "¿Cuál es el primer número?",
+    "num2": "¿Cuál es el segundo número?",
+    "operation": "¿Qué operación le gustaría que le realizaran?\n1) Agregar 2) Sustraer 3) Multiplicar 4) Dividir",
+    "error": "Hmm... eso no parece un número válido."
+  }
+}
