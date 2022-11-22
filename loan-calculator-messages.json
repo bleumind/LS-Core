@@ -1,0 +1,7 @@
+{
+  "welcome": "=> Hello, this is the Loan Calculator!",
+  "loanAmount": "\n=> Enter the amount you wish to loan.",
+  "interestRate": "\n> Enter your Annual Percentage Rate.",
+  "loanDuration": "\n=> Enter your desired loan duration in months.",
+  "newCalculation": "=> Would you like to make another loan calculation?\nEnter 'y' to continue and any other key to exit the application."
+}
