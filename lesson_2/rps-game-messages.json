@@ -1,5 +1,5 @@
 {
-  "welcome": "Welcome to a game of rock, paper, scissors!\n=> You vs. computer bot!\n",
+  "welcome": "Welcome to a game of rock, paper, scissors!\n=> You vs. Computer bot!\n",
   "weapon": "Choose rock, paper or scissors.",
   "botWeapon": "\nThe computer chose",
   "endGame": "Thank you for playing! Goodbye."
